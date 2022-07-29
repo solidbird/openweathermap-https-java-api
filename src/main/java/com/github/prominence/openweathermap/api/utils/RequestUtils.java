@@ -44,7 +44,7 @@ import java.util.stream.Collectors;
  */
 public final class RequestUtils {
 
-    private static final String OWM_URL_BASE = "http://api.openweathermap.org/data/2.5/";
+    private static final String OWM_URL_BASE = "https://api.openweathermap.org/data/2.5/";
 
     private static final Logger logger = LoggerFactory.getLogger(RequestUtils.class);
 
