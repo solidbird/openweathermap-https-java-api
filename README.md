@@ -36,7 +36,7 @@ Paid:
 ### Gradle coordinates:
 
 ```groovy
-implementation 'com.github.prominence:openweathermap-api:2.3.0'
+implementation 'com.github.solidbird:openweathermap-https-java-api:2.3.0'
 ```
 
 ### Documentation
